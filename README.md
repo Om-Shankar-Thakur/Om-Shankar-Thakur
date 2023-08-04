@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 </div>
 
 - :telescope: I’m a student and a geek Software Engineer, contributing to frontend and backend for building web applications.
+  
+- 💻 Highly interested in Data Science.
 
 - :seedling: Exploring Technical Content Writing.
 
