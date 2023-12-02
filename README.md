@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
