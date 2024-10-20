@@ -25,13 +25,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I’m a passionate Software Engineer and student, contributing to frontend and backend development for web applications.
+- :telescope: I’m a passionate Software Engineer and student specializing in **AI/ML** with hands-on experience in backend and frontend development for web applications.
   
-- 💻 I have a deep interest in Data Science and Machine Learning.
+- 💻 I have a deep interest in **Data Science** and **Machine Learning**, particularly in applying these technologies to real-world problems.
 
-- :seedling: Currently exploring Technical Content Writing.
+- :seedling: Currently exploring **Technical Content Writing**, where I enjoy sharing my knowledge and experiences with the community.
 
-- :zap: In my free time, I enjoy solving problems on GeeksforGeeks, Leetcode, HackerRank, and reading tech articles.
+- :zap: In my free time, I love solving coding challenges on platforms like GeeksforGeeks, LeetCode, and HackerRank, as well as reading the latest tech articles.
 
 - :pencil: I’ve started writing technical blogs on Medium. Check them out below!
 
@@ -92,7 +92,4 @@
 
 - [Will AI Replace Humans? Exploring the Future of Work and Society](https://medium.com/@yourusername/will-ai-replace-humans-exploring-the-future-of-work-and-society)
 - [Harnessing AI for Sustainable Farming: The Journey of [ANNदाता]](https://medium.com/@yourusername/harnessing-ai-for-sustainable-farming-the-journey-of-ann-data)
-- [ANNदाता: A Comprehensive AI Solution for Sustainable Agriculture](https://medium.com/@yourusername/ann-data-a-comprehensive-ai-solution-for-sustainable-agriculture)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END
+- [ANNदाता: A Comprehensive AI
