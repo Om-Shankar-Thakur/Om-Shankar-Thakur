@@ -92,3 +92,10 @@
 
 - [Will AI Replace Humans? Exploring the Future of Work and Society](https://medium.com/@omshankar466/will-ai-replace-humans-exploring-the-future-of-work-and-society-12d975cb080b)]
 - [Harnessing AI for Sustainable Farming: The Journey of ANNदाता](https://medium.com/@omshankar466/harnessing-ai-for-sustainable-farming-the-journey-of-ann%E0%A4%A6%E0%A4%BE%E0%A4%A4%E0%A4%BE-b527d5dbea2a)
+
+
+### :sparkles: Let's Connect!
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/om-shankar-86981b224/) or [Twitter](https://twitter.com/OMSHANKARTHAKU5). I'm always open to discussing new projects, collaborations, or any tech-related queries!
+
+---
